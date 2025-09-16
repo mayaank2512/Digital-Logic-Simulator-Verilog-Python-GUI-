@@ -1,0 +1,7 @@
+Digital-Logic-Simulator/
+│── verilog_codes/           # Verilog files (AND.v, OR.v, Adder.v, Counter.v, etc.)
+│── testbenches/             # Testbench files for simulation
+│── python_gui/              # Python GUI for selecting circuits
+│── simulation_results/      # Waveforms, truth tables
+│── requirements.txt
+│── README.md
